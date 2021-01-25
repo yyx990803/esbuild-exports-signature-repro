@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "esbuild": "^0.8.34",
+    "preact": "^10.5.11"
+  }
+}
